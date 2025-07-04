@@ -1,6 +1,6 @@
-<!-- Banner -->
+ 
 <p align="center">
-  <img src="https://github.com/brijpatel88/brijpatel88/assets/banner-image.gif" alt="Brijesh Patel GitHub Banner" width="100%" />
+  <img src="assets/images/banner.jpg" alt="Brijesh Patel GitHub Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Brijesh Patel</h1>
